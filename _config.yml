@@ -3,7 +3,7 @@ name: Jeffrey Neil Willits
 bio: Python Developer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Jeff's portfolio website...
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,7 +12,7 @@ picture: assets/images/jeff.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
