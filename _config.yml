@@ -9,6 +9,7 @@ description: Jeff's portfolio website...
 # better with square images
 external-image: false
 picture: assets/images/jeff.jpg
+picture-fuel-credit: assets/images/fuel-credit-utility.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
