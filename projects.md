@@ -4,19 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture-fuel-credit }})
 
-<p>About Jeff's projects... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Project Example 1: Custom Calculator
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I helped a truck rental business by providing a utility program to calculate credit due when trucks are returned with added fuel. The rental software they use calculates the amount to charge when fuel level is lower on return. However, it was necessary to manually determine credit when trucks were returned with added fuel. Truck types have varying fuel capacities, so the process was prone to error. The utility saves labor as well.
+
+The user can set up multiple types of trucks by entering the vehicle name and tank capacity. The amount to credit per gallon must also be entered for setup. The data is automatically stored so day-to-day use of the program only requires selection of the truck type with a drop-down box and outgoing/incoming fuel levels with sliders that represent the fuel gauge.</p>
+
+
+
 
 <h2>Skills</h2>
 
