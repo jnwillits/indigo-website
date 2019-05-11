@@ -20,6 +20,8 @@ layout: page
 <br>
 <br>
 <br>
-<h2>Project Example 2: Custom Calculator</h2>
+<h2>Project Example 2: Excel File Processing</h2>
 
-<p>I am associated with a business that makes daily updates to an Excel spreadsheet an Excel formatted report of past due balances exported from their operation software. Obsolete data needs to be deleted from their custom spreadsheet, dates needs to be compared and updated, and new accounts are added. I designed a labor-saving desktop utility that completely automates this.</p>
+<p>I am associated with a business that makes daily updates to an Excel spreadsheet to track a process that involves a series of dated events. The updates start by entering information from an Excel formatted report of past due balances that is exported from operational software. Obsolete data needs to be deleted from their custom spreadsheet, dates needs to be compared and updated, and new accounts are added.</p>
+
+<p>I designed a labor-saving desktop utility that automates all of this. It automatically reads data from cells in the operational spreadsheet and makes date comparisons. It then updates and saves a new version of the custom spreadsheet. A date and time stamped backup of their file is also saved before the revisions are recorded.</p>
