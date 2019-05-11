@@ -17,3 +17,9 @@ layout: page
 <ul>
 	<li><a href="https://github.com/jnwillits/my-coding-projects/blob/tic-tac-toe/fuel-credit.py">GitHub Code Repository</a></li>
 </ul>
+<br>
+<br>
+<br>
+<h2>Project Example 2: Custom Calculator</h2>
+
+<p>I am associated with a business that makes daily updates to an Excel spreadsheet an Excel formatted report of past due balances exported from their operation software. Obsolete data needs to be deleted from their custom spreadsheet, dates needs to be compared and updated, and new accounts are added. I designed a labor-saving desktop utility that completely automates this.</p>
