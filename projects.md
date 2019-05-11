@@ -6,9 +6,9 @@ layout: page
 
 
 
-<h2>Project Example 1: Custom Calculator</h2>
-
-<h2>Project Example 1: </h2> <li><a href="https://github.com/">Custom Calculator</a></li>
+<h2>
+	
+	Project Example 1: Custom Calculator</h2>
 
 <p>I helped a truck rental business by providing a utility program to calculate credit due when trucks are returned with added fuel. The rental software they use calculates the amount to charge when fuel level is lower on return. However, it was necessary to manually determine credit when trucks were returned with added fuel. Truck types have varying fuel capacities, so the process was prone to error. The utility saves labor as well.</p>
 
@@ -19,7 +19,5 @@ layout: page
 
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">GitHub Code Repository</a></li>
 </ul>
