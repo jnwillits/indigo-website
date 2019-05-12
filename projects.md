@@ -14,7 +14,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture-fuel-credit }})
 
 <ul>
-	<li><a href="https://github.com/jnwillits/my-coding-projects/blob/tic-tac-toe/fuel-credit.py">GitHub Code Repository</a></li>
+	<li><a href="https://raw.githubusercontent.com/jnwillits/my-coding-projects/tic-tac-toe/fuel-credit.py">Code Repository</a></li>
 </ul>
 <br>
 <br>
@@ -26,5 +26,5 @@ layout: page
 <p>I designed a labor-saving desktop utility that automates all of this. It automatically reads data from cells in the operational spreadsheet and makes date comparisons. It then updates and saves a new version of the custom spreadsheet. A date and time stamped backup of their file is also saved before the revisions are recorded.</p>
 
 <ul>
-	<li><a href="https://github.com/jnwillits/past-due-accounts-utility">GitHub Code Repository</a></li>
+	<li><a href="https://github.com/jnwillits/past-due-accounts-utility">Code Repository</a></li>
 </ul>
