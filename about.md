@@ -10,5 +10,3 @@ layout: page
 <ul>
 	<li><a href="https://www.upwork.com/o/profiles/users/_~01191506b35232ebc4/?s=1110580753069494272">Jeff on UpWork</a></li>
 </ul>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="jnwillits"><a class="LI-simple-link" href='https://www.linkedin.com/in/jnwillits?trk=profile-badge'>Jeffrey Neil Willits</a></div>
