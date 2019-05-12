@@ -26,5 +26,5 @@ layout: page
 <p>I designed a labor-saving desktop utility that automates all of this. It automatically reads data from cells in the operational spreadsheet and makes date comparisons. It then updates and saves a new version of the custom spreadsheet. A date and time stamped backup of their file is also saved before the revisions are recorded.</p>
 
 <ul>
-	<li><a href="https://github.com/jnwillits/past-due-accounts-utility">Code Repository</a></li>
+	<li><a href="https://raw.githubusercontent.com/jnwillits/past-due-accounts-utility/master/auction-planner-utility.py">Code Repository</a></li>
 </ul>
