@@ -31,12 +31,18 @@ layout: page
 
 <br>
 <br>
-<h2>Project Example: Reporting Process Automation Utility</h2>
+<h2>Project Example: Reporting Process Automation</h2>
 
 <p>This is an example program that demonstrates how data can be automatically collected from multiple spreadsheets. The
-program processes the data and generates report files in Excel and PDF formats.</p>
+program processes the data and generates report files in Excel and PDF formats.  Here is one of the input data files:</p>
 
-<p>x</p>
+![Profile Image]({{ site.url }}/{{ site.picture-automated_report_input }})
+
+<p>Suppose you ran a new company without established operational software. At the end of each day, your three sales offices
+uploaded sales data in spreadsheets to your server. Then someone cut and pasted the data to another spreadsheet, using it to 
+calculate sales agent productivity, sort, then paste the results to a reporting template. To save labor, reduct errors, and
+improve process consistency this can be easily automated with a simple executable utility. The example code includes a GUI
+interface so it does not have to run from the command line and the data file paths can be easily entered and stored.</p>
 
 ![Profile Image]({{ site.url }}/{{ site.picture-automated_report_1 }})
 
