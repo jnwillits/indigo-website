@@ -38,7 +38,7 @@ program processes the data and generates report files in Excel and PDF formats.<
 
 <p>x</p>
 
-![Profile Image]({{ site.url }}/{{ site.picture-fuel-credit }})
+![Profile Image]({{ site.url }}/{{ site.picture-automated_report_1 }})
 
 <ul>
 	<li><a href="https://raw.githubusercontent.com/jnwillits/reporting-process-automation-utility/master/reporting-utility.py">Code Repository</a></li>
