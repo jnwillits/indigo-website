@@ -38,6 +38,8 @@ program processes the data and generates report files in Excel and PDF formats.<
 
 <p>x</p>
 
+![Profile Image]({{ site.url }}/{{ site.picture-fuel-credit }})
+
 <ul>
-	<li><a href="https://raw.githubusercontent.com/jnwillits/past-due-accounts-utility/master/auction-planner-utility.py">Code Repository</a></li>
+	<li><a href="https://raw.githubusercontent.com/jnwillits/reporting-process-automation-utility/master/reporting-utility.py">Code Repository</a></li>
 </ul>
