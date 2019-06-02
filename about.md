@@ -18,4 +18,4 @@ layout: page
 	<li><a href="https://imgs.xkcd.com/comics/is_it_worth_the_time.png">Is it Worth the Time?</a></li>
 </ul>
 
-![Profile Image]({{ site.url }}/{{ site.picture-is_it_worth_the_time }})
+![Profile Image]({{ site.url }}/{{ site.picture-is_it_worth_the_time_2 }})
