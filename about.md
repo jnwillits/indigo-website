@@ -13,4 +13,4 @@ layout: page
 
 <p>If your business routinely uses Excel for data processing processing and reporting, there are most likely some great opportunities to save labor and improve consistency.</p>
 
-![Profile Image]({{ site.url }}/{{ site.picture-automated_report_input }})
+![Profile Image]({{ site.url }}/{{ site.picture-is_it_worth_the_time }})
