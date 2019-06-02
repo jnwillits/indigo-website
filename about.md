@@ -12,14 +12,6 @@ layout: page
 	<a href="https://github.com/chris1610/pbpython/blob/master/presentations/Escaping-Excel-Hell-with-Python-and-Pandas.pdf">Escaping Excel Hell...</a>
 </ul>
 
-<p>In addition to Window executible files, my deliverables include source code. You can contract with me again via UpWork to make updates and further customizations. Otherwise, I can provide consultation to as necessary to help your team members update the code.</p>
+<p>My deliverables include the source code in addition to Windows executible files. After our projects are completed, you can contract with me again via UpWork to make updates and further customizations. Otherwise, I can provide consultation to as necessary to help your team members update the code.</p>
 
 <p>My utilities can have an easy GUI interface and they are delivered to you as an executable file. You can hire me for freelance work via my <a href="https://www.upwork.com/o/profiles/users/_~01191506b35232ebc4/?s=1110580753069494272">UpWork</a> profile:</p>
-<ul>
-	<a href="https://www.upwork.com/o/profiles/users/_~01191506b35232ebc4/?s=1110580753069494272">Jeff on UpWork</a>
-</ul>
-
-<p>My utilities can have an easy GUI interface and they are delivered to you as an executable file. You can hire me for freelance work via my UpWork profile:</p>
-<ul>
-	<a href="https://www.upwork.com/o/profiles/users/_~01191506b35232ebc4/?s=1110580753069494272">Jeff on UpWork</a>
-</ul>
