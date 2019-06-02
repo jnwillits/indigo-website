@@ -48,7 +48,7 @@ interface so it does not have to run from the command line and the data file pat
 
 ![Profile Image]({{ site.url }}/{{ site.picture-automated_report_gui }})
 
-<p>The utility creates reports as shown below and files them in both Excel and PDF formated with file names that include date
+<p>The utility creates reports as shown below and files them in both Excel and PDF formats with file names that include date
 and time information. The program could be extended to allow it to run at a specified time and automatically email the files.
 Any type of output is possible, including graphs that render the data and information.</p>
 
