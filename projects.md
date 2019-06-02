@@ -3,6 +3,7 @@ title: Projects
 layout: page
 ---
 
+<p>I build custom tools to help you automate Excel file processing, creation of reports, and email distribution.</p>
 <br>
 <br>
 <h2>Project Example: Custom Calculator</h2>
