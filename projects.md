@@ -44,6 +44,12 @@ calculate sales agent productivity, sort, then paste the results to a reporting 
 improve process consistency this can be easily automated with a simple executable utility. The example code includes a GUI
 interface so it does not have to run from the command line and the data file paths can be easily entered and stored.</p>
 
+![Profile Image]({{ site.url }}/{{ site.picture-automated_gui }})
+
+<p>The utility creates reports as shown below and files them in both Excel and PDF formated with file names that include date
+and time information. The program could be extended to allow it to run at a specified time and automatically email the files.
+Any type of output is possible, including graphs that render the data and information.</p>
+
 ![Profile Image]({{ site.url }}/{{ site.picture-automated_report_1 }})
 
 <ul>
