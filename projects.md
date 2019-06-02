@@ -40,7 +40,7 @@ program processes the data and generates report files in Excel and PDF formats. 
 
 ![Profile Image]({{ site.url }}/{{ site.picture-automated_report_input }})
 
-<p>Suppose you ran a new company without established operational software. At the end of each day, your three sales offices
+<p>Suppose you ran a new company without established operational software. At the end of each day, your sales offices
 uploaded sales data in spreadsheets to your server. Then someone cut and pasted the data to another spreadsheet, using it to 
 calculate sales agent productivity, sort, then paste the results to a reporting template. To save labor, reduct errors, and
 improve process consistency this can be easily automated with a simple executable utility. The example code includes a GUI
