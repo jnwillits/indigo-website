@@ -12,6 +12,7 @@ layout: page
 	<a href="https://github.com/chris1610/pbpython/blob/master/presentations/Escaping-Excel-Hell-with-Python-and-Pandas.pdf">Escaping Excel Hell...</a>
 </ul>
 
+<br>
 
 <p>My deliverables include the source code in addition to Windows executible files. After our projects are completed, you can contract with me again via UpWork to make updates and further customizations. Otherwise, I can provide consultation as necessary to help your team members update the code.</p>
 
