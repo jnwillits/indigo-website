@@ -11,11 +11,8 @@ layout: page
 	<li><a href="https://www.upwork.com/o/profiles/users/_~01191506b35232ebc4/?s=1110580753069494272">Jeff on UpWork</a></li>
 </ul>
 
-<p>If your business routinely uses Excel for data processing processing and reporting, there are most likely some great opportunities to save labor and improve consistency.</p>
-
+<p>If your business routinely uses Excel for data processing processing and reporting, there are most likely some great opportunities to save labor and improve consistency. For more about this, here is a good presentation by Chris Moffitt:</p>
 
 <ul>
-	<li><a href="https://imgs.xkcd.com/comics/is_it_worth_the_time.png">Is it Worth the Time?</a></li>
+	<a href="https://github.com/chris1610/pbpython/blob/master/presentations/Escaping-Excel-Hell-with-Python-and-Pandas.pdf">Is it Worth the Time?</a>
 </ul>
-
-![Profile Image]({{ site.url }}/{{ site.picture-is_it_worth_the_time_2 }})
