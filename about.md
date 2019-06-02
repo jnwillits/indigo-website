@@ -14,4 +14,8 @@ layout: page
 <p>If your business routinely uses Excel for data processing processing and reporting, there are most likely some great opportunities to save labor and improve consistency.</p>
 
 
+<ul>
+	<li><a href="https://imgs.xkcd.com/comics/is_it_worth_the_time.png">Is it Worth the Time?</a></li>
+</ul>
+
 ![Profile Image]({{ site.url }}/{{ site.picture-is_it_worth_the_time }})
