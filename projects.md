@@ -57,3 +57,30 @@ Any type of output is possible, including graphs that render the data and inform
 <ul>
 	<li><a href="https://raw.githubusercontent.com/jnwillits/reporting-process-automation-utility/master/reporting-utility.py">Code Repository</a></li>
 </ul>
+
+<br>
+<br>
+<h2>Project Example: Reporting Process Automation</h2>
+
+<p>This is an example program that demonstrates how data can be automatically collected from multiple spreadsheets. The
+program processes the data and generates report files in Excel and PDF formats.  Here is one of the input data files:</p>
+
+![Profile Image]({{ site.url }}/{{ site.picture-automated_report_input }})
+
+<p>Suppose you ran a new company without established operational software. At the end of each day, your sales offices
+uploaded sales data in spreadsheets to your server. Then someone cut and pasted the data to another spreadsheet, using it to 
+calculate sales agent productivity, sort, then paste the results to a reporting template. To save labor, reduct errors, and
+improve process consistency this can be easily automated with a simple executable utility. The example code includes a GUI
+interface so it does not have to run from the command line and the data file paths can be easily entered and stored.</p>
+
+![Profile Image]({{ site.url }}/{{ site.picture-automated_report_gui }})
+
+<p>The utility creates reports as shown below and files them in both Excel and PDF formats with file names that include date
+and time information. The program could be extended to allow it to run at a specified time and automatically email the files.
+Any type of output is possible, including graphs that render the data and information.</p>
+
+![Profile Image]({{ site.url }}/{{ site.picture-automated_report_1 }})
+
+<ul>
+	<li><a href="https://raw.githubusercontent.com/jnwillits/reporting-process-automation-utility/master/reporting-utility.py">Code Repository</a></li>
+</ul>
