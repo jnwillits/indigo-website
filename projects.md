@@ -66,3 +66,14 @@ Any type of output is possible, including graphs that render the data and inform
 </ul>
 
 <p>If you are sending reports on a daily basis to an email distribution, you spend some time attaching the files, writing an email subject, and identifying the distribution. The following code can be compiled to an executable file that is triggered automatically by the Windows Task Scheduler. All you have to do is make sure the files are at the specified location before the program is set to launch. There is no need to open Outlook. It prepares the email and deletes the files when it's finished. If there are no files to send, it does nothing.</p>
+
+<br>
+<br>
+<h2>Project Example: Morning Emailer</h2>
+<ul>
+<li><a href="https://raw.githubusercontent.com/jnwillits/Report-Email-Utility/master/report-email-utility.py">Code Repository</a></li>
+</ul>
+
+<p>Automate repetitive emails! I wrote this utility to help a business automate setting up and sending a report email – one that is done repetitively. It is useful when a range of Excel data needs to be pasted into the body of the email. The setup only needs to happen once with a simple single page GUI input form. Files are identified along with sheet and range information for the spreadsheet. Text for the subject of the email can be specified and the email distribution is also entered. Once the setup data is entered, it is stored so the email can be produced and sent with a single click.</p>
+
+![Profile Image]({{ site.url }}/{{ site.picture-automated_report_1 }})
