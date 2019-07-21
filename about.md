@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I write software that automates data management tasks, reducing errors and saving labor for businesses. For example, you may need to compile an end-of-day report using data in multiple spreadsheets. I can give you a custom utility that automatically reads the files, processes the data as necessary, and emails reports to your team members in Excel or PDF format.</p>
+<p>I write software that automates data management tasks to reduce errors and save labor. For example, you may need to compile an end-of-day report using data in multiple spreadsheets. I can give you a custom utility that automatically reads the files, processes the data, and emails reports to your team members in Excel or PDF format.</p>
 
-<p>If your business routinely uses Excel for data processing and reporting, there are most likely some great opportunities to save labor and improve consistency. For more about this, here is a good presentation by Chris Moffitt:</p>
+<p>If your business routinely uses Excel for data processing and reporting, there are probably great opportunities to save labor and improve consistency. For more about this, here is a good presentation by Chris Moffitt:</p>
 
 <ul>
 	<a href="https://github.com/chris1610/pbpython/blob/master/presentations/Escaping-Excel-Hell-with-Python-and-Pandas.pdf">Escaping Excel Hell...</a>
