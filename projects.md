@@ -5,7 +5,7 @@ layout: page
 
 <br>
 <br>
-<p>I build custom tools to help you automate data processing along with creation and distribution of reports.</p>
+<p>I build custom tools to automate data processing to include creation and distribution of reports.</p>
 <br>
 <h2>Project Example: Custom Calculator</h2>
 <ul>
