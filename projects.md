@@ -15,7 +15,7 @@ layout: page
 
 <p>x</p>
 
-![Profile Image]({{ site.url }}/{{ assets/images/fuel-credit-utility.png }})
+![The Flashcard Project]( https://jnwillits.github.io/indigo/assets/images/fuel-credit-utility.png )
 
 <br>
 <br>
