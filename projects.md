@@ -15,7 +15,7 @@ layout: page
 
 <p>x</p>
 
-![The Flashcard Project]( https://jnwillits.github.io/indigo/assets/images/fuel-credit-utility.png )
+![The Flashcard Project]( https://jnwillits.github.io/indigo/assets/images/fp-screen_1280x640.png )
 
 <br>
 <br>
