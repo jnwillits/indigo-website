@@ -14,7 +14,7 @@ picture-automated_report_1: assets/images/automated_report_1.png
 picture-automated_report_input: assets/images/automated_report_input.png
 picture-automated_report_gui: assets/images/automated_report_gui.png
 picture-morning_emailer: assets/images/morning_emailer.png
-picture-morning_emailer: assets/images/fp-screen_1280x640.png
+picture-flashcards: assets/images/fp-screen_1280x640.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
