@@ -15,7 +15,7 @@ layout: page
 
 <p>x</p>
 
-![Profile Image]({{ site.url }}/{{ site.picture-fp-screen_1280x640 }})
+![Profile Image]({{ site.url }}/{{ assets/images/fuel-credit-utility.png }})
 
 <br>
 <br>
