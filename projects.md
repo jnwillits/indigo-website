@@ -5,7 +5,19 @@ layout: page
 
 <br>
 <br>
-<p>I build custom tools to automate data processing to include creation and distribution of reports.</p>
+<p>I build custom tools to automate data processing to include creation and distribution of reports. The Flashcard Project is an ongoing open source desktop application I developed and authored.</p>
+<br>
+<br>
+<h2>Project Example: Desktop Application - The Flashcard Project</h2>
+<ul>
+<li><a href="https://github.com/jnwillits/The-Flashcard-Project">Code Repository</a></li>
+</ul>
+
+<p>x</p>
+
+![Profile Image]({{ site.url }}/{{ site.picture-fuel-credit }})
+
+<br>
 <br>
 <h2>Project Example: Custom Calculator</h2>
 <ul>
@@ -17,6 +29,7 @@ layout: page
 <p>The user can set up multiple types of trucks by entering the vehicle name and tank capacity. The amount to credit per gallon must also be entered for setup. The data is automatically stored so day-to-day use of the program only requires selection of the truck type with a drop-down box and outgoing/incoming fuel levels with sliders that represent the fuel gauge.</p>
 
 ![Profile Image]({{ site.url }}/{{ site.picture-fuel-credit }})
+
 
 
 <br>
