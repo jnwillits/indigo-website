@@ -15,7 +15,7 @@ layout: page
 
 <p>x</p>
 
-![Profile Image]({{ site.url }}/{{ site.picture-flashcards }})
+![Profile Image]({{ site.url }}/{{ site.picture-fp-screen_1280x640 }})
 
 <br>
 <br>
