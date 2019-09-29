@@ -15,6 +15,8 @@ layout: page
 
 <p>The Flashcard Project is a Windows application that simplifies making, managing, and studying learning flashcards on a desktop. The software is written in Python. This features a native Windows GUI interface so the frame is size-adjustable, making it easy to have other applications and study references displayed. This can be useful when studying a computer language so you can switch to a code editor or interpreter for testing and practice.</p>
 
+<p>As part of this project, I authored a flashcard learning deck for studying Python coding. You can find the database, named fp-python.db in the releases section of the code respository. This is also open source and I am inviting contributions. See the README file for the application.</p>
+
 ![The Flashcard Project]( https://jnwillits.github.io/indigo/assets/images/fp-screen_1280x640.png )
 
 <br>
