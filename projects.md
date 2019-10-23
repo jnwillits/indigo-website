@@ -5,13 +5,11 @@ layout: page
 
 <br>
 <br>
-<p>I build custom tools to automate data processing to include creation and distribution of reports. The Flashcard Project is an ongoing open source desktop application I developed and authored.</p>
+<p>I build custom tools to automate data processing to include creation and distribution of reports. <a href="https://theflashcardproject.com">The Flashcard Project</a> is an ongoing open source desktop application I developed and authored.</p>
 <br>
 <br>
 <h2>Project Example: Desktop Application - The Flashcard Project</h2>
-<ul>
-<li><a href="https://theflashcardproject.com/">Project Page</a></li>
-</ul>
+<br>
 
 <p>The Flashcard Project is a Windows application that simplifies making, managing, and studying learning flashcards on a desktop. The software is written in Python and features a native Windows interface so the frame is size-adjustable, making it easy to have study references displayed.</p>
 
