@@ -17,9 +17,11 @@ layout: page
 
 <p>As part of this project, I authored a flashcard learning deck for studying Python coding. You can find the database, named fp-python.db, in the releases section of the code respository. This is also open source and I am inviting contributions. See the <a href="https://theflashcardproject.com">The Flashcard Project Page</a> for more information and links to download the application.</p>
 
+<br>
+
 ![The Flashcard Project]( https://jnwillits.github.io/indigo/assets/images/fp-screen_1280x640.png )
 
-<br>
+
 <br>
 <br>
 <h2>Project Example: Custom Calculator</h2>
