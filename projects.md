@@ -10,12 +10,12 @@ layout: page
 <br>
 <h2>Project Example: Desktop Application - The Flashcard Project</h2>
 <ul>
-<li><a href="https://theflashcardproject.com/">**Project Page**</a></li>
+<li><a href="https://theflashcardproject.com/">Project Page</a></li>
 </ul>
 
 <p>The Flashcard Project is a Windows application that simplifies making, managing, and studying learning flashcards on a desktop. The software is written in Python and features a native Windows interface so the frame is size-adjustable, making it easy to have study references displayed.</p>
 
-<p>As part of this project, I authored a flashcard learning deck for studying Python coding. You can find the database, named fp-python.db, in the releases section of the code respository. This is also open source and I am inviting contributions. See the [The Flashcard Project Page](https://theflashcardproject.com) for more information and links to download the application.</p>
+<p>As part of this project, I authored a flashcard learning deck for studying Python coding. You can find the database, named fp-python.db, in the releases section of the code respository. This is also open source and I am inviting contributions. See the <a href="https://theflashcardproject.com">The Flashcard Project Page</a>) for more information and links to download the application.</p>
 
 ![The Flashcard Project]( https://jnwillits.github.io/indigo/assets/images/fp-screen_1280x640.png )
 
@@ -23,7 +23,7 @@ layout: page
 <br>
 <h2>Project Example: Custom Calculator</h2>
 <ul>
-<li><a href="https://raw.githubusercontent.com/jnwillits/my-coding-projects/tic-tac-toe/fuel-credit.py">**Code Repository**</a></li>
+<li><a href="https://raw.githubusercontent.com/jnwillits/my-coding-projects/tic-tac-toe/fuel-credit.py">Code Repository</a></li>
 </ul>
 
 <p>I helped a truck rental business by providing a utility program to calculate credit due when trucks are returned with added fuel. The rental software they use calculates the amount to charge when fuel level is lower on return. However, it was necessary to manually determine credit when trucks were returned with added fuel. Truck types have varying fuel capacities, so the process was prone to error. The utility saves labor as well.</p>
@@ -38,7 +38,7 @@ layout: page
 <br>
 <h2>Project Example: Excel File Processing</h2>
 <ul>
-<li><a href="https://raw.githubusercontent.com/jnwillits/past-due-accounts-utility/master/auction-planner-utility.py">**Code Repository**</a></li>
+<li><a href="https://raw.githubusercontent.com/jnwillits/past-due-accounts-utility/master/auction-planner-utility.py">Code Repository</a></li>
 </ul>
 
 <p>I am associated with a business that makes daily updates to an Excel spreadsheet to track a process that involves a series of dated events. The updates start by entering information from an Excel formatted report of past due balances that is exported from operational software. Obsolete data needs to be deleted from their custom spreadsheet, dates needs to be compared and updated, and new accounts are added.</p>
@@ -50,7 +50,7 @@ layout: page
 <br>
 <h2>Project Example: Reporting Process Automation</h2>
 <ul>
-<li><a href="https://raw.githubusercontent.com/jnwillits/reporting-process-automation-utility/master/reporting-utility.py">**Code Repository**</a></li>
+<li><a href="https://raw.githubusercontent.com/jnwillits/reporting-process-automation-utility/master/reporting-utility.py">Code Repository</a></li>
 </ul>
 
 <p>This is an example program that demonstrates how data can be automatically collected from multiple spreadsheets. The
@@ -77,7 +77,7 @@ Any type of output is possible, including graphs that render the data and inform
 <br>
 <h2>Project Example: Report Email Utility</h2>
 <ul>
-<li><a href="https://raw.githubusercontent.com/jnwillits/Report-Email-Utility/master/report-email-utility.py">**Code Repository**</a></li>
+<li><a href="https://raw.githubusercontent.com/jnwillits/Report-Email-Utility/master/report-email-utility.py">Code Repository</a></li>
 </ul>
 
 <p>If you are sending reports on a daily basis to an email distribution, you spend time attaching the files, writing an email subject, and identifying the distribution. This code can be compiled to an executable file and set to trigger automatically by the Windows Task Scheduler. All you have to do is make sure the files are at the specified location before the program is set to launch. There is no need to open Outlook. It prepares the email and deletes the files when it is finished. If there are no files to send, it does nothing.</p>
@@ -86,7 +86,7 @@ Any type of output is possible, including graphs that render the data and inform
 <br>
 <h2>Project Example: Morning Emailer</h2>
 <ul>
-<li><a href="https://raw.githubusercontent.com/jnwillits/morning-emailer/master/morning-emailer.py">**Code Repository**</a></li>
+<li><a href="https://raw.githubusercontent.com/jnwillits/morning-emailer/master/morning-emailer.py">Code Repository</a></li>
 </ul>
 
 <p>Automate repetitive emails! I wrote this utility to help a business automate setting up and sending a report email – one that is done repetitively. It is useful when a range of Excel data needs to be pasted into the body of the email. The setup only needs to happen once with a simple single page GUI input form. Files are identified along with sheet and range information for the spreadsheet. Text for the subject of the email can be specified and the email distribution is also entered. Once the setup data is entered, it is stored so the email can be produced and sent with a single click.</p>
