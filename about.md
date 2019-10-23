@@ -12,4 +12,6 @@ layout: page
 
 <p>My deliverables include the source code in addition to Windows executible files. After our projects are completed, you can contract with me to make updates and further customizations. Otherwise, I can provide consultation as necessary to help your team members update the code.</p>
 
-<p>Projects I deliver can have an easy GUI interface and are delivered to you as executable files. See <a href="https://theflashcardproject.com">The Flashcard Project</a> as an example. I am available for freelance projects via <a href="https://www.upwork.com/o/profiles/users/_~01191506b35232ebc4/?s=1110580753069494272">UpWork</a>.</p>
+<p>Projects I deliver can have an easy GUI interface and are delivered to you as executable files. See <a href="https://theflashcardproject.com">The Flashcard Project</a> as an example.</p>
+    
+<p>I am available for freelance projects via <a href="https://www.upwork.com/o/profiles/users/_~01191506b35232ebc4/?s=1110580753069494272">UpWork</a>.</p>
