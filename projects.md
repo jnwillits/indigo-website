@@ -5,7 +5,7 @@ layout: page
 
 <br>
 <br>
-<p>I build custom tools to automate data processing to include creation and distribution of reports. The Flashcard Project is an open source desktop application I developed and authored.</p>
+<p>I build custom tools to automate data processing to include creation and distribution of reports. In additon, The Flashcard Project is an open source desktop application I developed and authored.</p>
 <br>
 <br>
 <h2>Project Example: Desktop Application</h2>
